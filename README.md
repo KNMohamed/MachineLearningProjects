@@ -10,5 +10,5 @@
 - 90% accuracy achieved on unseen data  
 ### Project 2 : IMBD Review Text Classification (Positive/Negative)
 > Classify IMBD movie review as either positive or negative
-- 30,000 training images, 30,000 test images
+- 25,000 training images, 25,000 test images
 - ***In progress...***
